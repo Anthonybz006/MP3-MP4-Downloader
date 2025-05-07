@@ -18,8 +18,8 @@ O diferencial é que o programa **verifica automaticamente se o FFmpeg está ins
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/nome-do-repositorio.git
-   cd nome-do-repositorio
+   git clone https://github.com/Anthonybz006/MP3-MP4-Downloader.git
+   cd MP3-MP4-Downloader
    ```
 
 2. Instale as dependências:
