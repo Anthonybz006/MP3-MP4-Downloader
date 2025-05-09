@@ -71,5 +71,5 @@ Este projeto está licenciado sob a **Licença MIT**. Consulte o arquivo `LICENS
 Contribuições são bem-vindas! Sinta-se à vontade para abrir **issues** ou **pull requests** com melhorias, correções ou sugestões.
 
 ## 📩 Entre em contato
-- Entre em contato: [antoniozago186@gmail.com](mailto:antoniozago186@gmail.com)
+- E-mail: [antoniozago186@gmail.com](mailto:antoniozago186@gmail.com)
 
